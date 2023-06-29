@@ -2,6 +2,8 @@
 
 Welcome to Flux! Flux is a captivating music web player that seamlessly integrates with the Spotify API.
 
+Visit [here](https://fluxplayer.netlify.app)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Dependencies
