@@ -82,7 +82,7 @@ The Flux app is open source and released under the [MIT License](https://opensou
 
 ## Contact
 
-If you have any questions or feedback regarding Flux, please contact us [here](malikgaurav626@gmail.com). We appreciate your input and would be happy to assist you.
+If you have any questions or feedback regarding Flux, please contact us [here](https://malikgaurav626@gmail.com). We appreciate your input and would be happy to assist you.
 
 Happy listening with Flux!
 
